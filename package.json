@@ -1,0 +1,21 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "Site com calculadora simples para aprendizado de manipulação de DOM, HTML, CSS e JavaScript.\r Feito por : Gustavo Millamonte\r Aluno SESI SENAI Vinhedo-SP CE 242\r Feito em : 05/03/2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guustavo-m/calc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/guustavo-m/calc/issues"
+  },
+  "homepage": "https://github.com/guustavo-m/calc#readme"
+}
