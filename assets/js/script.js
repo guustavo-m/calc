@@ -13,3 +13,4 @@ botoes.forEach(btn => {
         }
     });
 });
+
